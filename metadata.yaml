@@ -1,0 +1,36 @@
+_repo: Contes-Fantastiqueset-Contes-Litt-raires_37836
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37836'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Préface -- Avant-propos -- Kreyssler -- Honestus -- La mort de Doyen
+  -- Jenny la bouquetière -- Maître et Valet -- La Vallée de Bièvre -- Le Haut-de-chausses
+  -- L'Échelle de soie -- Le Voyage de la lionne -- La Fin d'automne -- Hoffmann et
+  Paganini -- Les Duellistes -- Vendue en détail -- 310 Rosette -- Iphigénie -- Strafford
+  sur l'Avon -- Rêverie -- La Vente à l'encan -- Rambouillet -- La Soirée poétique
+  -- La Rue des Tournelles -- La Ville de Saint-Étienne.
+title: Contes Fantastiques et Contes Littéraires
+url: http://www.gutenberg.org/ebooks/37836

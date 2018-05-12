@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4431
     wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37836#Contes-Fantastiqueset-Contes-Litt-raires
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2011-10-24'
 gutenberg_type: Text
